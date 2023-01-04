@@ -1,0 +1,13 @@
+C:\git\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\git\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\git\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\git\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\git\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\git\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\git\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\git\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+H:\git\c#\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+H:\git\c#\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+H:\git\c#\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+H:\git\c#\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+H:\git\c#\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
