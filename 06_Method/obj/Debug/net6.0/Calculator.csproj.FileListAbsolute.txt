@@ -1,0 +1,15 @@
+H:\git\c#\ConsoleApp3\bin\Debug\net6.0\Calculator.exe
+H:\git\c#\ConsoleApp3\bin\Debug\net6.0\Calculator.deps.json
+H:\git\c#\ConsoleApp3\bin\Debug\net6.0\Calculator.runtimeconfig.json
+H:\git\c#\ConsoleApp3\bin\Debug\net6.0\Calculator.dll
+H:\git\c#\ConsoleApp3\bin\Debug\net6.0\Calculator.pdb
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\Calculator.dll
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\refint\Calculator.dll
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\Calculator.pdb
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+H:\git\c#\ConsoleApp3\obj\Debug\net6.0\ref\Calculator.dll
