@@ -1,0 +1,5 @@
+H:\git\C#\Winform\ConsoleApp1\ConsoleApp1\obj\Release\net5.0-windows\SimpleWindow.csproj.AssemblyReference.cache
+H:\git\C#\Winform\ConsoleApp1\ConsoleApp1\obj\Release\net5.0-windows\SimpleWindow.GeneratedMSBuildEditorConfig.editorconfig
+H:\git\C#\Winform\ConsoleApp1\ConsoleApp1\obj\Release\net5.0-windows\SimpleWindow.AssemblyInfoInputs.cache
+H:\git\C#\Winform\ConsoleApp1\ConsoleApp1\obj\Release\net5.0-windows\SimpleWindow.AssemblyInfo.cs
+H:\git\C#\Winform\ConsoleApp1\ConsoleApp1\obj\Release\net5.0-windows\SimpleWindow.csproj.CoreCompileInputs.cache

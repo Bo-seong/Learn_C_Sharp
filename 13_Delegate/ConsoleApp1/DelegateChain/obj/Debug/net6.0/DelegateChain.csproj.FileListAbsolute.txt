@@ -1,0 +1,15 @@
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\bin\Debug\net6.0\DelegateChain.exe
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\bin\Debug\net6.0\DelegateChain.deps.json
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\bin\Debug\net6.0\DelegateChain.runtimeconfig.json
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\bin\Debug\net6.0\DelegateChain.dll
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\bin\Debug\net6.0\DelegateChain.pdb
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\DelegateChain.csproj.AssemblyReference.cache
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\DelegateChain.GeneratedMSBuildEditorConfig.editorconfig
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\DelegateChain.AssemblyInfoInputs.cache
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\DelegateChain.AssemblyInfo.cs
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\DelegateChain.csproj.CoreCompileInputs.cache
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\DelegateChain.dll
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\refint\DelegateChain.dll
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\DelegateChain.pdb
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\DelegateChain.genruntimeconfig.cache
+H:\git\C#\13_Delegate\ConsoleApp1\DelegateChain\obj\Debug\net6.0\ref\DelegateChain.dll

@@ -1,0 +1,15 @@
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\bin\Debug\net6.0\Dictionary.exe
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\bin\Debug\net6.0\Dictionary.dll
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\Dictionary.dll
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+H:\git\C#\11_Generic\ConsoleApp1\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll

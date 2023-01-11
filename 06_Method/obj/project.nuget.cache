@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kMBG6orTqjUvBp3qEfOjt59xkMst6ad4fvxNXLQKniLkcuDbY1v5kuZqozgsLCArwCEoZwSVQsEkN5z7OOENuw==",
+  "dgSpecHash": "jubNOs6JL3WGbB0O2EwDy0ee891sE4bI3wO2Myo1NQRUmWo9DcTwvBqRPrrIahgyiHTItuj9GPaemsy3I910mg==",
   "success": true,
-  "projectFilePath": "H:\\git\\c#\\ConsoleApp3\\Calculator.csproj",
+  "projectFilePath": "H:\\git\\C#\\06_Method\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,11 @@
+H:\git\C#\Winform\ConsoleApp1\ControlText\bin\Debug\ControlText.exe.config
+H:\git\C#\Winform\ConsoleApp1\ControlText\bin\Debug\ControlText.exe
+H:\git\C#\Winform\ConsoleApp1\ControlText\bin\Debug\ControlText.pdb
+H:\git\C#\Winform\ConsoleApp1\ControlText\obj\Debug\ControlTest.csproj.AssemblyReference.cache
+H:\git\C#\Winform\ConsoleApp1\ControlText\obj\Debug\ControlTest.csproj.SuggestedBindingRedirects.cache
+H:\git\C#\Winform\ConsoleApp1\ControlText\obj\Debug\ControlText.MainForm.resources
+H:\git\C#\Winform\ConsoleApp1\ControlText\obj\Debug\ControlText.Properties.Resources.resources
+H:\git\C#\Winform\ConsoleApp1\ControlText\obj\Debug\ControlTest.csproj.GenerateResource.cache
+H:\git\C#\Winform\ConsoleApp1\ControlText\obj\Debug\ControlTest.csproj.CoreCompileInputs.cache
+H:\git\C#\Winform\ConsoleApp1\ControlText\obj\Debug\ControlText.exe
+H:\git\C#\Winform\ConsoleApp1\ControlText\obj\Debug\ControlText.pdb
